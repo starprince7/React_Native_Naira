@@ -32,7 +32,7 @@ const App = () => {
 ### Example 2
 Use inside a `Text` component.
 
-E.g: `I Paid John ₦10,000.00 for his car today!`
+E.g: `I Paid John ₦10,000 for his car today!`
 ```javascript
 import * as React from 'react'
 import { StyleSheet, Text, View } from 'react-native'
