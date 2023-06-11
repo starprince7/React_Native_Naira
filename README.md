@@ -67,7 +67,7 @@ export default App
 | style        | `StyleProp<TextStyle>`  | Optional | Add your styles directly to the component. |
 | decimalPlaces| `number`                | Optional | This prop is used to describe the number of digits that appear after the decimal point in a number. |
 | children     | `number`                | true     | Pass a number to be rendered by the component. The value you pass here must not be a string! |
-| -------------|-------------| --------- | ----------- |
+
 
 
 ### Testing
